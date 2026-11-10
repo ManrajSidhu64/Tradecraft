@@ -1,0 +1,2 @@
+# Tradecraft
+A trading helper 
